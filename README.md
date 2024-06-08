@@ -1,4 +1,4 @@
-# BI-ML1-2023-pogodars
+# BI-ML1-2023
 
 [CZ] Cílem předmětu je seznámit studenty se základními metodami strojového učení. Studenti teoreticky porozumí a naučí se prakticky používat modely vhodné pro regresní i klasifikační úlohy ve scénáři učení s učitelem a také modely shlukování ve scénáři učení bez učitele. V předmětu bude také probrán vztah mezi vychýlením a variancí modelů (bias-variance trade-off) a vyhodnocování kvality modelů. Kromě toho se studenti naučí základní techniky předzpracování a vizualizace dat. Na cvičeních se k práci s daty a modely budou využívat knihovny pandas a scikit pro jazyk Python.
 
